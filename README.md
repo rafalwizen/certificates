@@ -2,8 +2,6 @@
 
 **CERTIFICATE OF COURSE COMPLETION**
 
-**Rafał Wizeń**
-
 This certificate confirms the completion of the 5-month Droga Nowoczesnego Architekta course, covering the following skills:
 
 - Knowledge and practical application of Domain-Driven Design (DDD) and Event Sourcing (ES)
